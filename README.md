@@ -1,7 +1,7 @@
 ## HAC100 Challenge
 
+<img src='HacJRYHlogo.png' height="auto" width="auto" />
 
-<img src='YouthHackBlue.png' height="150" width="310" />
 
 
 
