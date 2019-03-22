@@ -20,7 +20,7 @@ Home recycling is a massive problem in today’s society. We’re pushed to recy
 ## The Prizes
 Cinema Voucher for each member of the winning team \o/
 
-<img src='1080p_HD_Make_Em_Laugh_Singin_in_the_Rain_1952.gif' height="auto" width="auto" />
+<img src='https://media.giphy.com/media/55bM8mirLn2zC/giphy.gif' height="auto" width="auto" />
 
 
 
