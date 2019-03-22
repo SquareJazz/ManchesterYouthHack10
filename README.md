@@ -1,6 +1,6 @@
 ## HAC100 Challenge
 
-<img src='HacJRYHlogo.png'height="auto" width="auto" />
+<img src='HacJRYHlogo.PNG'height="auto" width="auto" />
 
 
 
