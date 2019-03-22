@@ -2,7 +2,7 @@
 
 HAC100 Challenge
 
-[!(images//YouthHackBlue.JPG)]
+[(images//YouthHackBlue.JPG)]
 
 
 
