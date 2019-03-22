@@ -1,4 +1,4 @@
-#ManchesterYouthHack
+## ManchesterYouthHack
 
 HAC100 Challenge
 
@@ -18,6 +18,8 @@ Home recycling is a massive problem in today’s society. We’re pushed to recy
 
 
 ## The Prizes
+Cinema Voucher for each member of the winning team \o/
+
 
 
 
