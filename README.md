@@ -2,7 +2,7 @@
 
 <img src='HacJRYHlogo.PNG' height="auto" width="auto" />
 <img src='HacJRYHlogo.PNG' height="150" width="330" />
-<img src='https://media.giphy.com/media/xTiTnd7SzM12374USs/giphy.gif' height="auto" width="auto" />
+<img src='https://media.giphy.com/media/xTiTnd7SzM12374USs/giphy.gif' height="150" width="330" />
 
 
 
