@@ -1,12 +1,6 @@
 ## HAC100 Challenge
 
 <img src='HacJRYHlogo.PNG' height="auto" width="auto" />
-<img src='HacJRYHlogo.PNG' height="150" width="330" />
-<img src='https://media.giphy.com/media/m1qpP9JGNAbGU/giphy.gif' height="150" width="330" />
-
-
-
-
 
 
 ## The Challenge
@@ -15,7 +9,7 @@ Home recycling is a massive problem in today’s society. We’re pushed to recy
 
 Good luck!
 
-
+<img src='https://media.giphy.com/media/m1qpP9JGNAbGU/giphy.gif' height="150" width="330" />
 
 
 ## The Prizes
