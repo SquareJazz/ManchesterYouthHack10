@@ -14,10 +14,10 @@ Home recycling is a massive problem in today’s society. We’re pushed to recy
 
 ## Tips
 
-Also, a handy tip is figure out what problem in your community that bothers you and try and think of a tech solution. Then you have a social enterprise on your hands!
 
 
-## The prizes
+
+## The Prizes
 
 
 
