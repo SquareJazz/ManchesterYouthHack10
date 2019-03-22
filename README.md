@@ -2,7 +2,7 @@
 
 HAC100 Challenge
 
-[!Manchester Youth Hack](images//YouthHackBlue.JPG)]
+[!(images//YouthHackBlue.JPG)]
 
 
 
