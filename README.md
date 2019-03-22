@@ -2,7 +2,9 @@
 
 HAC100 Challenge
 
-[(images//YouthHackBlue.JPG)]
+<img src='images/YouthHackBlue.JPG' height="150" width="330" />
+
+
 
 
 
