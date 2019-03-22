@@ -1,7 +1,6 @@
-## ManchesterYouthHack
+## HAC100 Challenge
 
-HAC100 Challenge
-
+<img src='YouthHackBlue.png' height="150" width="330" />
 <img src='YouthHackBlue.png' height="150" width="330" />
 
 
